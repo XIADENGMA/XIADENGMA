@@ -4,7 +4,7 @@ The above image is really cool:D
 
 
 
-### Hi there , I'm [XIADENGMA](https://blog.xiadengma.top/) 👋
+### Hi there , I'm [XIADENGMA](https://blog.xiadengma.com/) 👋
 
 I am XIADENGMA! I am a 18 year old student living in China! I like to code in different languages. As of now, I know VB, C , C++. I also like to play games.
 
