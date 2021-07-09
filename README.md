@@ -11,7 +11,7 @@ I am XIADENGMA! I am a 19 year old student living in China! I like to code in di
 The next learning direction is computer vision and microcontroller. I hope to be a full-stack engineer in the future.
 
 - 🔭 I’m currently working on something cool 😉
-- 🌱  I’m currently learning C++
+- 🌱  I’m currently learning C++ and Python
 - 💬 Ask me about anything
 
 ### Contact Me
