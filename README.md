@@ -1,4 +1,4 @@
-![cool](image.jpg)
+![oh ! i am cool](image.jpg)
 
 The above image is really cool:D
 
@@ -17,4 +17,4 @@ The next learning direction is computer vision and microcontroller. I hope to be
 ### Contact Me
 
 - E-mail:xiadengma@gmail.com
-- Telegram:xiadengma
+- Telegram:[xiadengma](https://t.me/xiadengma)
