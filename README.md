@@ -6,7 +6,7 @@ The above image is really cool:D
 
 ### Hi there , I'm [XIADENGMA](https://xiadengma.com/) 👋
 
-I am XIADENGMA! I am a 20 year old student living in China!
+I am a 20 year old student living in China!
 
 The next learning direction is Computer Vision. I hope to be a full-stack engineer in the future.
 
