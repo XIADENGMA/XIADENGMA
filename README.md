@@ -6,12 +6,12 @@ The above image is really cool:D
 
 ### Hi there , I'm [XIADENGMA](https://xiadengma.com/) 👋
 
-I am XIADENGMA! I am a 19 year old student living in China! I like to code in different languages. As of now, I know C , C++. I also like to play games.
+I am XIADENGMA! I am a 20 year old student living in China!
 
-The next learning direction is computer vision and microcontroller. I hope to be a full-stack engineer in the future.
+The next learning direction is Computer Vision. I hope to be a full-stack engineer in the future.
 
 - 🔭 I’m currently working on something cool 😉
-- 🌱  I’m currently learning C++ and Python
+- 🌱 I’m currently learning CV and Robot
 - 💬 Ask me about anything
 
 ### Contact Me
