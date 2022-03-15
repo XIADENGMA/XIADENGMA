@@ -11,7 +11,7 @@ I am a 20 year old student living in China!
 The next learning direction is Computer Vision. I hope to be a full-stack engineer in the future.
 
 - 🔭 I’m currently working on something cool 😉
-- 🌱 I’m currently learning CV and Robot
+- 🌱 I’m currently learning CV and Robotics
 - 💬 Ask me about anything
 
 ### Contact Me
